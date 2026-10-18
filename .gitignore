@@ -1,0 +1,5 @@
+# Compiled game binary
+game
+
+# Generated at runtime by the game
+leaderboard.txt
